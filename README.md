@@ -169,3 +169,5 @@ This setup is intentionally overengineered for a small project, but demonstrates
 - Real DevOps thinking under constraints
 
 When resources are limited, creativity becomes architecture.
+
+This repo is the public frontend.
